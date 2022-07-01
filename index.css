@@ -8,11 +8,12 @@
 #game {
   background-color: #111;
   height: 400px;
+  width: 400px;
   margin: 0 auto;
   overflow: hidden;
-  position: relative;
+  position: fixed;
   text-align: center;
-  width: 400px;
+ 
 }
 
 #start {
